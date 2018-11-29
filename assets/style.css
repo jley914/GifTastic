@@ -1,0 +1,40 @@
+body{
+background-color: darkcyan;
+}
+
+.container{
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 960px;
+}
+
+.useranimal{
+    display:inline-block;
+    margin: 10px;
+
+}
+
+button.animal{
+    border-radius: 12px;
+    background-color: cadetblue;
+    color:white;
+    padding:5px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 10px 5px 0;
+
+}
+
+#animal-form{
+    border-radius: 12px;
+    background-color: teal;
+    color:white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 12px;
+    margin: 5px 0;
+    
+
+}
